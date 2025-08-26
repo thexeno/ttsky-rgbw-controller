@@ -6,7 +6,7 @@ An RGBW controller made out of academic curiosity attempts which involves differ
 
 ![](/docs/layout_bw_edited.jpg) 
 
-- [Read the documentation for the diagrams and how to play with it with your tt08 chip!](docs/info.md)
+- [Read the documentation for the diagrams and how to play with it with the RGBW Controller chip!](docs/info.md)
 
 ## What is Tiny Tapeout?
 
